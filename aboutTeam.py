@@ -20,9 +20,9 @@ def app():
             with col2:
                 st.image("images/Yash.jpeg", use_column_width = True, caption = "Yash the Analyst")
             with col1:
-                st.image("images/kenneth.png", use_column_width = True, caption = "Kenneth is a meme")
+                st.image("images/Andrea.png", use_column_width = True, caption = "Andrea the Communicator")
             with col2:
-                st.image("images/kenneth.png", use_column_width = True, caption = "Kenneth is a meme")
+                st.image("images/Amy.png", use_column_width = True, caption = "Amy the Counselor")
     else:
         with st.beta_container():
             st.image("images/kenneth.png", use_column_width = True, caption = "Kenneth is a meme")
