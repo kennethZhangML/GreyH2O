@@ -22,7 +22,7 @@ def app():
             with col1:
                 st.image("images/Andrea.png", use_column_width = True, caption = "Andrea the Communicator")
             with col2:
-                st.image("images/Amy.png", use_column_width = True, caption = "Amy the Counselor")
+                st.image("images/Amy.jpg", use_column_width = True, caption = "Amy the Counselor")
             with col1:
                 st.image("images/Brianna.jpg", use_column_width = True, caption = "Brianna the Ideation Master")
     else:
