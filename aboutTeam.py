@@ -25,6 +25,8 @@ def app():
                 st.image("images/Amy.jpg", use_column_width = True, caption = "Amy the Devil's Advocate")
             with col1:
                 st.image("images/Brianna.jpg", use_column_width = True, caption = "Brianna the Ideation Master")
+            with col2:
+                st.image("images/Adriana.jfif", use_column_width = True, caption = "Da Best Facilitator")
     else:
         with st.beta_container():
             st.image("images/kenneth.png", use_column_width = True, caption = "Kenneth is a meme")
