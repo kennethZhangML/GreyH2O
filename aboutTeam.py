@@ -20,7 +20,7 @@ def app():
             with col2:
                 st.image("images/Yash.jpeg", use_column_width = True, caption = "Yash the Analyst")
             with col1:
-                st.image("images/Andrea.png", use_column_width = True, caption = "Andrea the Communicator")
+                st.image("images/Andrea.png", use_column_width = True, caption = "Andrea the Creative Editor")
             with col2:
                 st.image("images/Amy.jpg", use_column_width = True, caption = "Amy the Devil's Advocate")
             with col1:
