@@ -24,7 +24,8 @@ def app():
     st.write()
     st.write()
     st.write()
-    st.write("Creators: Amy Zeng, Andrea Barreto, Brianna Davidson, Emily Lau, Erica Power, Kenneth Zhang, Ryan Zhang ----- Da Best Facilitator: Adrianna Gurreri")
+    st.write("Creators: Amy Zeng, Andrea Barreto, Brianna Davidson, Emily Lau, Erica Power, Kenneth Zhang, Ryan Zhang, Yash Patel")
+    st.write("Da Best Facilitator: Adrianna Gurreri")
     st.write("ML Engineer & Demo Dev: Kenneth Zhang")
 
 
