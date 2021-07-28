@@ -18,7 +18,7 @@ def app():
             with col1:
                 st.image("images/Erica.jpg", use_column_width = True, clamp = True, caption = "Erica Power - The Educator")
             with col2:
-                st.image("images/kenneth.png", use_column_width = True, caption = "Kenneth is a meme")
+                st.image("images/Yash.jpeg", use_column_width = True, caption = "Yash the Analyst")
             with col1:
                 st.image("images/kenneth.png", use_column_width = True, caption = "Kenneth is a meme")
             with col2:
